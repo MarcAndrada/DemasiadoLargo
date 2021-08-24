@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Negro
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Negro
+    uniqueID: 980539081
+    locked: 0
+  - name: UI
+    uniqueID: 3277914389
     locked: 0
