@@ -121,6 +121,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &873112846 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2003246272323626070, guid: be9cd744dc77ca143ba0f9a892358409,
+    type: 3}
+  m_PrefabInstance: {fileID: 1560476291}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1390980183
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,6 +222,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Managers
       objectReference: {fileID: 0}
+    - target: {fileID: 6949959141383780142, guid: be9cd744dc77ca143ba0f9a892358409,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949959141383780142, guid: be9cd744dc77ca143ba0f9a892358409,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949959141383780142, guid: be9cd744dc77ca143ba0f9a892358409,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949959141383780142, guid: be9cd744dc77ca143ba0f9a892358409,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7325369468060565285, guid: be9cd744dc77ca143ba0f9a892358409,
         type: 3}
       propertyPath: m_RootOrder
@@ -271,5 +297,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8268984637221690038, guid: be9cd744dc77ca143ba0f9a892358409,
+        type: 3}
+      propertyPath: Difuminado
+      value: 
+      objectReference: {fileID: 873112846}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: be9cd744dc77ca143ba0f9a892358409, type: 3}
