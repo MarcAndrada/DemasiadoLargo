@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Dibujo
+  - Ball
+  - Wall
+  - Paddle
+  - Goal
   layers:
   - Default
   - TransparentFX
@@ -39,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3234306557
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
